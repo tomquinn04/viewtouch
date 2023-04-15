@@ -1,8 +1,10 @@
 /* XPM */
-static char * whiteMesh_xpm[] = {
-"4 4 1 1",
-" 	c #F3F9EC",
-"    ",
-"    ",
-"    ",
-"    "};
+static const char *whiteMesh[]={
+"4 4 3 1",
+"a c #a2a2a2",
+"# c #c6c6c6",
+". c #f3f9ec",
+".###",
+"#a##",
+"##.#",
+"###a"};
